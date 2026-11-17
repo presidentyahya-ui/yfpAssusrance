@@ -796,7 +796,7 @@ def js_listings():
 # 6. ADMIN (Decap CMS) CONFIGURATION
 # ==========================================================================
 def cms_config():
-    repo = os.environ.get("CMS_REPO", "").strip() or "presidentyahya-ui/yfp-assurance"
+    repo = os.environ.get("CMS_REPO", "").strip() or "presidentyahya-ui/yfpAssurance"
     branch = os.environ.get("CMS_BRANCH", "").strip() or os.environ.get("CF_PAGES_BRANCH", "").strip() or "main"
     pages = [{"name": k, "label": lbl, "file": f, "fields": SCHEMA[k]} for k, lbl, f in PAGE_FILES]
     return {
