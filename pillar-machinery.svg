@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" width="1600" height="1200" role="img" aria-label="Placeholder image: Refurbished commercial machinery">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8d1c6"/><stop offset="1" stop-color="#6e6558"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#14233a" stop-opacity="0"/><stop offset="1" stop-color="#14233a" stop-opacity=".55"/></linearGradient></defs>
+<rect width="1600" height="1200" fill="url(#g)"/>
+<circle cx="1000" cy="455" r="140" fill="none" stroke="#fff" stroke-opacity="0.35" stroke-width="1.2"/><circle cx="1000" cy="455" r="230" fill="none" stroke="#fff" stroke-opacity="0.32" stroke-width="1.2"/><circle cx="1000" cy="455" r="320" fill="none" stroke="#fff" stroke-opacity="0.29" stroke-width="1.2"/><circle cx="1000" cy="455" r="410" fill="none" stroke="#fff" stroke-opacity="0.26" stroke-width="1.2"/><circle cx="1000" cy="455" r="500" fill="none" stroke="#fff" stroke-opacity="0.23" stroke-width="1.2"/><circle cx="1000" cy="455" r="590" fill="none" stroke="#fff" stroke-opacity="0.20" stroke-width="1.2"/><circle cx="1000" cy="455" r="680" fill="none" stroke="#fff" stroke-opacity="0.17" stroke-width="1.2"/><circle cx="1000" cy="455" r="770" fill="none" stroke="#fff" stroke-opacity="0.14" stroke-width="1.2"/><circle cx="1000" cy="455" r="860" fill="none" stroke="#fff" stroke-opacity="0.11" stroke-width="1.2"/><circle cx="1000" cy="455" r="950" fill="none" stroke="#fff" stroke-opacity="0.08" stroke-width="1.2"/><circle cx="1000" cy="455" r="1040" fill="none" stroke="#fff" stroke-opacity="0.05" stroke-width="1.2"/><circle cx="1000" cy="455" r="120" fill="#14233a" opacity=".12"/>
+<rect width="1600" height="1200" fill="url(#s)"/>
+<g font-family="Georgia, 'Times New Roman', serif" fill="#fff">
+<text x="80" y="1036.5" font-family="Helvetica, Arial, sans-serif" font-size="25" letter-spacing="6" fill-opacity=".8">PLACEHOLDER IMAGE — REPLACE WITH LICENSED PHOTOGRAPHY</text>
+<text x="80" y="1128" font-size="61">Refurbished commercial machinery</text>
+</g></svg>

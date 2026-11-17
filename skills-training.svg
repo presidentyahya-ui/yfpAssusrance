@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" width="1600" height="1200" role="img" aria-label="Placeholder image: Practical training session">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9cdb8"/><stop offset="1" stop-color="#8c7a5f"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#14233a" stop-opacity="0"/><stop offset="1" stop-color="#14233a" stop-opacity=".55"/></linearGradient></defs>
+<rect width="1600" height="1200" fill="url(#g)"/>
+<rect x="-34" y="321" width="187" height="879" fill="#14233a" opacity="0.09"/><line x1="-34" y1="321" x2="153" y2="321" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="177" y="279" width="206" height="921" fill="#14233a" opacity="0.12"/><line x1="177" y1="279" x2="383" y2="279" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="407" y="289" width="202" height="911" fill="#14233a" opacity="0.08"/><line x1="407" y1="289" x2="609" y2="289" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="633" y="580" width="223" height="620" fill="#14233a" opacity="0.08"/><line x1="633" y1="580" x2="856" y2="580" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="880" y="660" width="333" height="540" fill="#14233a" opacity="0.09"/><line x1="880" y1="660" x2="1213" y2="660" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="1237" y="602" width="328" height="598" fill="#14233a" opacity="0.15"/><line x1="1237" y1="602" x2="1565" y2="602" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="1589" y="607" width="216" height="593" fill="#14233a" opacity="0.08"/><line x1="1589" y1="607" x2="1805" y2="607" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/>
+<rect width="1600" height="1200" fill="url(#s)"/>
+<g font-family="Georgia, 'Times New Roman', serif" fill="#fff">
+<text x="80" y="1036.5" font-family="Helvetica, Arial, sans-serif" font-size="25" letter-spacing="6" fill-opacity=".8">PLACEHOLDER IMAGE — REPLACE WITH LICENSED PHOTOGRAPHY</text>
+<text x="80" y="1128" font-size="61">Practical training session</text>
+</g></svg>

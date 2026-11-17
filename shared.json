@@ -1,0 +1,38 @@
+{
+  "footer_tagline": "Sourcing, trading and verification from Dubai, with video-based documentation powered by Skills Mirror.",
+  "legal_line": "",
+  "skills_mirror": {
+    "eyebrow": "Technology platform",
+    "title": "Skills Mirror: the evidence behind our work",
+    "text": "Skills Mirror is the technology underneath YFP Assurance. It turns video, photographs and structured observations into organised records that buyers, employers and project owners can actually review.",
+    "points": [
+      "Video-based documentation of equipment and work",
+      "Practical skills demonstrations and assessments",
+      "Equipment condition reporting",
+      "Milestone-based project progress reporting"
+    ],
+    "note": "Online report access is in development. Today, documentation is shared with customers directly as part of their order or engagement.",
+    "planned": [
+      {
+        "title": "Equipment condition reports",
+        "text": "View the documented condition record for a specific machine."
+      },
+      {
+        "title": "Digital CVs",
+        "text": "Open a professional's video-supported skills portfolio."
+      },
+      {
+        "title": "Skills assessments",
+        "text": "Review a structured assessment report against defined criteria."
+      },
+      {
+        "title": "Project progress reports",
+        "text": "Follow milestone documentation for a monitored project."
+      },
+      {
+        "title": "Secure sharing links",
+        "text": "Share an individual report privately with the right people."
+      }
+    ]
+  }
+}

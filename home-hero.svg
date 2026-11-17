@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500" width="1200" height="1500" role="img" aria-label="Placeholder image: Hospitality interior &amp; workshop">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c9cfc8"/><stop offset="1" stop-color="#5f6f66"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#1b2a28" stop-opacity="0"/><stop offset="1" stop-color="#1b2a28" stop-opacity=".55"/></linearGradient></defs>
+<rect width="1200" height="1500" fill="url(#g)"/>
+<rect x="-20" y="418" width="307" height="1082" fill="#1b2a28" opacity="0.06"/><line x1="-20" y1="418" x2="287" y2="418" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="311" y="490" width="310" height="1010" fill="#1b2a28" opacity="0.12"/><line x1="311" y1="490" x2="621" y2="490" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="645" y="355" width="172" height="1145" fill="#1b2a28" opacity="0.05"/><line x1="645" y1="355" x2="817" y2="355" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="841" y="710" width="276" height="790" fill="#1b2a28" opacity="0.11"/><line x1="841" y1="710" x2="1117" y2="710" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="1141" y="494" width="205" height="1006" fill="#1b2a28" opacity="0.11"/><line x1="1141" y1="494" x2="1346" y2="494" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/>
+<rect width="1200" height="1500" fill="url(#s)"/>
+<g font-family="Georgia, 'Times New Roman', serif" fill="#fff">
+<text x="60" y="1341.0" font-family="Helvetica, Arial, sans-serif" font-size="19" letter-spacing="6" fill-opacity=".8">PLACEHOLDER IMAGE — REPLACE WITH LICENSED PHOTOGRAPHY</text>
+<text x="60" y="1410" font-size="46">Hospitality interior &amp; workshop</text>
+</g></svg>

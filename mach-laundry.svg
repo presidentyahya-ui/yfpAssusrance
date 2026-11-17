@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 1000" width="1500" height="1000" role="img" aria-label="Placeholder image: Commercial laundry equipment">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9cdb8"/><stop offset="1" stop-color="#8c7a5f"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#14233a" stop-opacity="0"/><stop offset="1" stop-color="#14233a" stop-opacity=".55"/></linearGradient></defs>
+<rect width="1500" height="1000" fill="url(#g)"/>
+<rect x="41" y="314" width="224" height="686" fill="#14233a" opacity="0.11"/><line x1="41" y1="314" x2="265" y2="314" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="289" y="577" width="245" height="423" fill="#14233a" opacity="0.09"/><line x1="289" y1="577" x2="534" y2="577" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="558" y="403" width="251" height="597" fill="#14233a" opacity="0.08"/><line x1="558" y1="403" x2="809" y2="403" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="833" y="297" width="273" height="703" fill="#14233a" opacity="0.15"/><line x1="833" y1="297" x2="1106" y2="297" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="1130" y="365" width="214" height="635" fill="#14233a" opacity="0.05"/><line x1="1130" y1="365" x2="1344" y2="365" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="1368" y="576" width="315" height="424" fill="#14233a" opacity="0.16"/><line x1="1368" y1="576" x2="1683" y2="576" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/>
+<rect width="1500" height="1000" fill="url(#s)"/>
+<g font-family="Georgia, 'Times New Roman', serif" fill="#fff">
+<text x="75" y="854.5" font-family="Helvetica, Arial, sans-serif" font-size="23" letter-spacing="6" fill-opacity=".8">PLACEHOLDER IMAGE — REPLACE WITH LICENSED PHOTOGRAPHY</text>
+<text x="75" y="940" font-size="57">Commercial laundry equipment</text>
+</g></svg>

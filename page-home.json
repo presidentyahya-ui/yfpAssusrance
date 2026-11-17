@@ -1,0 +1,98 @@
+{
+  "seo": {
+    "title": "YFP Assurance | Sourced with Confidence. Backed by Evidence.",
+    "description": "Dubai-based sourcing, trading and verification: refurbished machinery, skills assurance, factory-direct products and project assurance, backed by video-based evidence."
+  },
+  "hero": {
+    "eyebrow": "Sourcing · Verification · Evidence",
+    "title": "Sourced with Confidence.",
+    "title_accent": "Backed by Evidence.",
+    "lead": "We source products, services and skilled talent while helping customers assess quality, competence and progress through video-based evidence.",
+    "button_primary": "Explore Our Services",
+    "button_secondary": "Request a Quote",
+    "points": [
+      "One accountable point of contact",
+      "Video-based documentation",
+      "Based in Dubai, serving international buyers"
+    ],
+    "image": "/images/home-hero.svg",
+    "image_alt": "",
+    "badge_title": "Evidence before commitment",
+    "badge_text": "Documentation powered by Skills Mirror"
+  },
+  "statement": {
+    "title": "Make informed purchasing decisions, with documented evidence.",
+    "text": "From refurbished machinery and factory-direct solutions to skilled talent and project monitoring, YFP Assurance helps you make informed purchasing decisions with documented evidence."
+  },
+  "services": {
+    "eyebrow": "What we do",
+    "title": "Four services. One accountable partner.",
+    "text": "Whatever you need, you deal directly with YFP. We handle sourcing, supplier coordination, quotation and the evidence you need to decide with confidence.",
+    "cards": [
+      {
+        "title": "Refurbished Machinery",
+        "text": "Sourced, refurbished and documented commercial equipment for UAE and international buyers.",
+        "link": "Refurbished Machinery",
+        "image": "/images/pillar-machinery.svg"
+      },
+      {
+        "title": "Skills Assurance",
+        "text": "Digital skills portfolios, practical assessments and training evidence for professionals and employers.",
+        "link": "Skills Assurance",
+        "image": "/images/pillar-skills.svg"
+      },
+      {
+        "title": "Factory-Direct Services",
+        "text": "Custom-made products and installation solutions sourced through specialist manufacturers and workshops.",
+        "link": "Factory Direct",
+        "image": "/images/pillar-factory.svg"
+      },
+      {
+        "title": "Project Assurance",
+        "text": "Video-based progress documentation and coordination for property, hospitality, automotive and marine projects.",
+        "link": "Project Assurance",
+        "image": "/images/pillar-project.svg"
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "A clear process, from requirement to delivery.",
+    "steps": [
+      {
+        "title": "Tell Us What You Need",
+        "text": "Share your requirement: equipment, a custom product, a skills assessment or a project to monitor."
+      },
+      {
+        "title": "We Source the Solution",
+        "text": "We identify suitable suppliers, workshops, manufacturers or specialists from our partner network."
+      },
+      {
+        "title": "We Document Relevant Evidence",
+        "text": "Where applicable, we record condition, competence or progress through Skills Mirror documentation."
+      },
+      {
+        "title": "We Coordinate Delivery",
+        "text": "You receive one quotation from YFP, then we coordinate the transaction, delivery and reporting."
+      }
+    ],
+    "button": "Start with your requirement"
+  },
+  "model": {
+    "eyebrow": "Our model",
+    "title": "You buy from YFP. We manage everything behind it.",
+    "text": "YFP Assurance is not a marketplace or directory. We are the single seller and service provider you deal with. Behind the scenes, we work with manufacturers, refurbishment specialists, workshops, contractors and trainers chosen for each requirement.",
+    "points": [
+      "One quotation, one contract, one point of contact",
+      "Supplier selection and coordination handled by YFP",
+      "Documentation matched to what matters for your purchase",
+      "Honest reporting of known limitations, not only highlights"
+    ],
+    "image": "/images/home-model.svg"
+  },
+  "cta": {
+    "title": "Tell us what you need.",
+    "text": "Describe your requirement and we will come back with sourcing options, the documentation available and a clear quotation.",
+    "button": "Request a Quote"
+  }
+}

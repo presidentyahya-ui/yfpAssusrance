@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1200" width="1600" height="1200" role="img" aria-label="Placeholder image: Aluminium &amp; glass systems">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c9cfc8"/><stop offset="1" stop-color="#5f6f66"/></linearGradient>
+<linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset=".55" stop-color="#1b2a28" stop-opacity="0"/><stop offset="1" stop-color="#1b2a28" stop-opacity=".55"/></linearGradient></defs>
+<rect width="1600" height="1200" fill="url(#g)"/>
+<rect x="-38" y="352" width="263" height="848" fill="#1b2a28" opacity="0.12"/><line x1="-38" y1="352" x2="225" y2="352" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="249" y="559" width="278" height="641" fill="#1b2a28" opacity="0.16"/><line x1="249" y1="559" x2="527" y2="559" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="551" y="256" width="277" height="944" fill="#1b2a28" opacity="0.07"/><line x1="551" y1="256" x2="828" y2="256" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="852" y="539" width="291" height="661" fill="#1b2a28" opacity="0.14"/><line x1="852" y1="539" x2="1143" y2="539" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="1167" y="401" width="159" height="799" fill="#1b2a28" opacity="0.15"/><line x1="1167" y1="401" x2="1326" y2="401" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/><rect x="1350" y="710" width="265" height="490" fill="#1b2a28" opacity="0.07"/><line x1="1350" y1="710" x2="1615" y2="710" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/>
+<rect width="1600" height="1200" fill="url(#s)"/>
+<g font-family="Georgia, 'Times New Roman', serif" fill="#fff">
+<text x="80" y="1036.5" font-family="Helvetica, Arial, sans-serif" font-size="25" letter-spacing="6" fill-opacity=".8">PLACEHOLDER IMAGE — REPLACE WITH LICENSED PHOTOGRAPHY</text>
+<text x="80" y="1128" font-size="61">Aluminium &amp; glass systems</text>
+</g></svg>

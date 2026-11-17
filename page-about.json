@@ -1,0 +1,71 @@
+{
+  "seo": {
+    "title": "About YFP Assurance | Sourcing, Trading & Verification in Dubai",
+    "description": "YFP Assurance is a Dubai-based sourcing, trading and verification business making commercial transactions more transparent through practical, video-based documentation powered by Skills Mirror."
+  },
+  "hero": {
+    "eyebrow": "About YFP Assurance",
+    "title": "Transparency, built into every transaction.",
+    "lead": "YFP Assurance exists to make commercial transactions and service delivery more transparent through practical documentation and evidence.",
+    "image": "/images/about-hero.svg"
+  },
+  "who": {
+    "eyebrow": "Who we are",
+    "title": "A Dubai-based sourcing, trading and verification business.",
+    "text": "YFP Assurance sources products, services and skilled talent for customers in the UAE and internationally. We are the seller and service provider you deal with. Behind the scenes, we coordinate manufacturers, refurbishment specialists, workshops, contractors and trainers selected for each requirement.\n\nWe manage inquiries, quotations, supplier coordination, sales and evidence reporting, so you have one accountable partner rather than many.",
+    "model_line": "Customer Requirement → YFP Sourcing → Appropriate Verification → Quotation → Transaction → Delivery / Reporting"
+  },
+  "philosophy": {
+    "eyebrow": "Our philosophy",
+    "title": "Five principles guide how we work.",
+    "items": [
+      {
+        "title": "Source intelligently",
+        "text": "Match each requirement with the right manufacturer, workshop, specialist or supplier."
+      },
+      {
+        "title": "Document what matters",
+        "text": "Record the evidence that helps a buyer decide, including limitations as well as strengths."
+      },
+      {
+        "title": "Communicate transparently",
+        "text": "Be clear about what is known, what is documented and what is not."
+      },
+      {
+        "title": "Coordinate responsibly",
+        "text": "Take ownership of the steps we commit to, and be explicit about those we do not."
+      },
+      {
+        "title": "Build lasting commercial relationships",
+        "text": "Earn repeat business through reliability rather than one-off transactions."
+      }
+    ]
+  },
+  "skills_mirror_title": "Integrated with Skills Mirror",
+  "not_section": {
+    "eyebrow": "Being clear",
+    "title": "What YFP Assurance is not.",
+    "cards": [
+      {
+        "title": "Not a marketplace",
+        "text": "We do not host third-party listings or seller accounts. You buy from YFP."
+      },
+      {
+        "title": "Not a factory owner",
+        "text": "Custom products are made by independent specialist partners we select."
+      },
+      {
+        "title": "Not a certifier",
+        "text": "Our documentation records evidence. It is not an official certification."
+      },
+      {
+        "title": "Not a recruiter",
+        "text": "Skills Assurance does not include job placement or recruitment."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Work with an accountable partner.",
+    "text": "Tell us about your requirement and we will explain how we can source it and what evidence we can provide."
+  }
+}

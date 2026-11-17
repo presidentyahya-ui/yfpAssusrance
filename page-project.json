@@ -1,0 +1,122 @@
+{
+  "seo": {
+    "title": "Project Assurance: Remote Project Monitoring & Progress Reports | YFP Assurance",
+    "description": "Remote project monitoring and video-based progress reports for property, interiors, hospitality, automotive and marine projects, with project coordination where separately contracted."
+  },
+  "hero": {
+    "eyebrow": "Pillar 04 · Project Assurance",
+    "title": "Know What’s Happening. Even When You’re Not There.",
+    "lead": "Structured remote project monitoring and evidence documentation, plus project coordination where it is separately contracted, for owners who cannot be on site every day.",
+    "image": "/images/project-hero.svg"
+  },
+  "categories": {
+    "eyebrow": "Project categories",
+    "title": "Visibility across four project types.",
+    "text": "Whether it is a villa renovation, a restaurant refurbishment, a classic car restoration or a yacht refit, you receive organised evidence of what has actually been done.",
+    "items": [
+      {
+        "title": "Property & Interiors",
+        "text": "Home renovations, interior fit-outs and residential improvements.",
+        "image": "/images/pa-property.svg"
+      },
+      {
+        "title": "Hospitality",
+        "text": "Hotel refurbishment, restaurant renovation and commercial improvement projects.",
+        "image": "/images/pa-hospitality.svg"
+      },
+      {
+        "title": "Automotive",
+        "text": "Vehicle repair, bodywork, classic car restoration and specialist refurbishment.",
+        "image": "/images/pa-automotive.svg"
+      },
+      {
+        "title": "Marine & Yachts",
+        "text": "Yacht repair, refits, interior refurbishment and restoration.",
+        "image": "/images/pa-marine.svg"
+      }
+    ]
+  },
+  "process": {
+    "eyebrow": "Our process",
+    "title": "From scope to handover, documented.",
+    "steps": [
+      {
+        "title": "Define scope & milestones",
+        "text": "We agree the project scope and the reporting milestones with you."
+      },
+      {
+        "title": "Gather evidence",
+        "text": "Videos and supporting evidence are collected at each stage."
+      },
+      {
+        "title": "Structure the reports",
+        "text": "Evidence is organised into clear progress reports."
+      },
+      {
+        "title": "Highlight what matters",
+        "text": "Documented progress, outstanding work and issues are flagged."
+      },
+      {
+        "title": "Updates & handover",
+        "text": "Regular client updates and handover documentation."
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Services & pricing",
+    "title": "Choose the level of involvement you need.",
+    "rows": [
+      {
+        "name": "Project Progress Reports",
+        "what": "Evidence documentation at agreed milestones.",
+        "receive": "Structured video-based progress reports and handover documentation.",
+        "pricing": "Fixed price, quoted for your project scope"
+      },
+      {
+        "name": "Project Management",
+        "what": "Active coordination of contractors, schedule and site communication, only where contracted in writing.",
+        "receive": "Coordination on your behalf, plus progress reporting.",
+        "pricing": "Custom quotation"
+      },
+      {
+        "name": "Specialist Sourcing & Coordination",
+        "what": "Finding and coordinating specialist workshops, trades or suppliers for your project.",
+        "receive": "Sourced specialists and a single point of contact.",
+        "pricing": "Custom quotation"
+      }
+    ]
+  },
+  "scope": {
+    "eyebrow": "Clarity of scope",
+    "title": "Documentation, inspection and management are different things.",
+    "cards": [
+      {
+        "tag": "Included in progress reports",
+        "title": "Evidence documentation",
+        "text": "We record and organise what is visible and reported at each milestone, so you can see progress, outstanding work and issues. It does not assess structural, mechanical, electrical or regulatory compliance."
+      },
+      {
+        "tag": "Not included",
+        "title": "Independent technical inspection",
+        "text": "Technical inspection is carried out by suitably qualified or licensed inspectors and engineers. It is not part of our progress reports. If you need one, we can help source it under a separate arrangement."
+      },
+      {
+        "tag": "Only where contracted",
+        "title": "Project management",
+        "text": "Active responsibility for coordinating contractors, schedule and decisions. We provide this only under a separate written agreement that defines our role and responsibilities."
+      }
+    ]
+  },
+  "form": {
+    "eyebrow": "Project monitoring inquiry",
+    "title": "Monitor My Project",
+    "intro": "Tell us about your project. We will propose a reporting scope and a quotation.",
+    "button": "Monitor My Project",
+    "ideal_for": [
+      "Owners overseas or travelling during works",
+      "Investors managing several properties",
+      "Operators refurbishing while trading",
+      "Owners of vehicles or vessels in a workshop or yard"
+    ]
+  }
+}

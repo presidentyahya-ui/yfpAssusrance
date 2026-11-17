@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Factory-Direct Custom Products: Signage, Joinery, Aluminium & Glass | YFP Assurance",
+    "description": "Custom signage and branding, aluminium and glass, upholstery, joinery, kitchen cabinets, marble and stone, and custom furniture, sourced from specialist workshops and managed by YFP in Dubai."
+  },
+  "hero": {
+    "eyebrow": "Pillar 03 · Factory-Direct Services",
+    "title": "Custom-Made. Factory-Direct. Managed by YFP.",
+    "lead": "Buy custom products and installation solutions directly through YFP. We source them from specialist factories and production workshops, and you have one partner accountable for your order.",
+    "image": "/images/factory-hero.svg"
+  },
+  "how": {
+    "eyebrow": "How it works",
+    "title": "You provide the brief. We manage production.",
+    "steps": [
+      {
+        "title": "Share your requirements",
+        "text": "Measurements, designs, drawings, photographs or a written brief."
+      },
+      {
+        "title": "We source the right partner",
+        "text": "We select a production partner suited to your product and specification."
+      },
+      {
+        "title": "Receive a YFP quotation",
+        "text": "One quotation from YFP covering scope, materials, lead time and installation."
+      },
+      {
+        "title": "Production & installation",
+        "text": "Optional Skills Mirror documentation of key manufacturing and installation milestones."
+      }
+    ]
+  },
+  "categories": [
+    {
+      "title": "Signage & Branding",
+      "featured": true,
+      "image": "/images/fd-signage.svg",
+      "description": "Signage is often the first thing your customers see. We source specialist signage fabricators for illuminated and non-illuminated signs, dimensional metal lettering and logos, shopfront branding, retail display fixtures and temporary event branding, built to your artwork and site dimensions.",
+      "applications": [
+        "Illuminated letters & light boxes",
+        "Architectural & wayfinding signs",
+        "Metal logos & lettering",
+        "Shopfront branding",
+        "Retail displays",
+        "Event & exhibition branding"
+      ]
+    },
+    {
+      "title": "Aluminium & Glass",
+      "featured": false,
+      "image": "/images/fd-aluminium.svg",
+      "description": "Made-to-measure aluminium and glass systems for homes, offices and commercial spaces, fabricated by specialist workshops to your measurements and specification.",
+      "applications": [
+        "Villa & apartment windows",
+        "Sliding & folding door systems",
+        "Office glass partitions",
+        "Frameless shower enclosures",
+        "Shopfront glazing"
+      ]
+    },
+    {
+      "title": "Upholstery",
+      "featured": false,
+      "image": "/images/fd-upholstery.svg",
+      "description": "Custom upholstery for residential and hospitality interiors, from bespoke sofas and headboards to restaurant banquettes, made to your dimensions and fabric choice.",
+      "applications": [
+        "Restaurant & café banquettes",
+        "Hotel headboards",
+        "Bespoke sofas",
+        "Re-upholstery of existing pieces",
+        "Lounge & lobby seating"
+      ]
+    },
+    {
+      "title": "Joinery",
+      "featured": false,
+      "image": "/images/fd-joinery.svg",
+      "description": "Architectural joinery made by specialist woodworking workshops: built-in wardrobes, internal doors, wall panelling and bespoke cabinetry.",
+      "applications": [
+        "Built-in wardrobes",
+        "Internal doors & frames",
+        "Wall panelling",
+        "Reception & feature joinery",
+        "Bespoke storage"
+      ]
+    },
+    {
+      "title": "Kitchen Cabinets",
+      "featured": false,
+      "image": "/images/fd-kitchen.svg",
+      "description": "Custom kitchens and fitted cabinetry produced to your layout, with a choice of finishes, hardware and related components.",
+      "applications": [
+        "Residential kitchens",
+        "Pantry & staff kitchens",
+        "Fitted utility cabinetry",
+        "Kitchen refacing & replacement doors"
+      ]
+    },
+    {
+      "title": "Marble & Stone",
+      "featured": false,
+      "image": "/images/fd-marble.svg",
+      "description": "Fabricated natural and engineered stone produced to template: countertops, vanities, cladding and bespoke stone elements.",
+      "applications": [
+        "Kitchen countertops",
+        "Bathroom vanities",
+        "Wall & floor cladding",
+        "Reception desks & bar tops",
+        "Bespoke stone pieces"
+      ]
+    },
+    {
+      "title": "Custom Furniture",
+      "featured": false,
+      "image": "/images/fd-furniture.svg",
+      "description": "Furniture made to order for residences, offices, hotels and restaurants, from single statement pieces to repeat runs for a fit-out.",
+      "applications": [
+        "Hotel room furniture",
+        "Restaurant tables & chairs",
+        "Office & reception furniture",
+        "Residential statement pieces"
+      ]
+    }
+  ],
+  "partner_notice": {
+    "title": "About our production partners.",
+    "text": "YFP Assurance does not own manufacturing facilities. Products are made by independent specialist factories and workshops that we select for each order. Your quotation, contract and point of contact are with YFP."
+  },
+  "form": {
+    "eyebrow": "Factory-direct quotation",
+    "title": "Request a Quote",
+    "intro": "Tell us what you need made. We will confirm the details and send a quotation.",
+    "button": "Request a Quote",
+    "tips": [
+      "Measurements or site dimensions",
+      "Drawings, artwork or reference images",
+      "Preferred materials and finishes",
+      "Installation location and access"
+    ]
+  }
+}

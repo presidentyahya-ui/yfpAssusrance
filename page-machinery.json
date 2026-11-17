@@ -1,0 +1,97 @@
+{
+  "seo": {
+    "title": "Refurbished Commercial Machinery, UAE | YFP Assurance",
+    "description": "Refurbished commercial kitchen, gym, laundry and CNC woodworking equipment sourced in the UAE, with Skills Mirror condition documentation. UAE, Africa and South Asia buyers."
+  },
+  "hero": {
+    "eyebrow": "Pillar 01 · Refurbished Machinery",
+    "title": "Refurbished Equipment. Documented Performance.",
+    "lead": "Commercial equipment sourced in the UAE, prepared by refurbishment and technical partners, and supplied by YFP with documentation that shows you what you are buying.",
+    "image": "/images/machinery-hero.svg"
+  },
+  "categories": {
+    "eyebrow": "Equipment categories",
+    "title": "Four focused categories.",
+    "text": "We concentrate on commercial equipment where condition and performance matter most to the buyer, and where documented evidence makes the decision easier.",
+    "items": [
+      {
+        "title": "Commercial Kitchen Equipment",
+        "text": "Ovens, mixers, cooking equipment, fryers and bakery machinery.",
+        "image": "/images/mach-kitchen.svg"
+      },
+      {
+        "title": "Commercial Gym Equipment",
+        "text": "Strength machines, cardio equipment, treadmills and fitness systems.",
+        "image": "/images/mach-gym.svg"
+      },
+      {
+        "title": "Commercial Laundry Equipment",
+        "text": "Industrial washing machines, dryers and ironing equipment.",
+        "image": "/images/mach-laundry.svg"
+      },
+      {
+        "title": "CNC & Woodworking Machinery",
+        "text": "CNC routers, panel saws, edge banders and workshop equipment.",
+        "image": "/images/mach-cnc.svg"
+      }
+    ]
+  },
+  "sourcing": {
+    "eyebrow": "How we source",
+    "title": "Located in the UAE. Prepared by specialists. Sold by YFP.",
+    "text": "YFP sources machines from suppliers across the UAE and works with refurbishment and technical partners to service, repair and prepare equipment where needed. You receive one quotation and deal only with YFP.\n\nWe supply buyers in the UAE and in eligible international markets, particularly across Africa and South Asia. Export eligibility, shipping and import requirements are confirmed for each order before quotation.",
+    "steps": [
+      {
+        "title": "Share your requirement",
+        "text": "Category, specification, quantity, destination and budget."
+      },
+      {
+        "title": "We locate suitable equipment",
+        "text": "Through UAE suppliers and our refurbishment partners."
+      },
+      {
+        "title": "Documentation where applicable",
+        "text": "Condition, history and recorded testing via Skills Mirror."
+      },
+      {
+        "title": "Quotation & delivery",
+        "text": "A written quotation from YFP, then coordinated delivery or export."
+      }
+    ]
+  },
+  "documentation": {
+    "eyebrow": "Skills Mirror equipment documentation",
+    "title": "See the machine before you commit.",
+    "intro": "Where applicable, equipment can be accompanied by Skills Mirror documentation covering:",
+    "points": [
+      "Make, model and serial number",
+      "Visible condition",
+      "Refurbishment and servicing history",
+      "Recorded operational testing",
+      "Known defects and inspection limitations"
+    ],
+    "notice_title": "What documentation means, and what it does not.",
+    "notice_text": "Documentation records what was observed and tested at the time of recording. It is not a certification, and not every item is fully inspected. Warranty or after-sales support applies only where it is expressly stated in your written quotation. The scope of documentation for each machine is confirmed before you buy.",
+    "image": "/images/mach-docs.svg"
+  },
+  "available": {
+    "eyebrow": "Available equipment",
+    "title": "Machines currently offered by YFP.",
+    "text": "A selection of equipment YFP is currently offering. Availability changes quickly. Enquire to confirm status, documentation and delivery to your country."
+  },
+  "no_stock_notice": {
+    "title": "Looking for available stock?",
+    "text": "We do not run a public listings marketplace. Tell us what you need and we will source it for you."
+  },
+  "form": {
+    "eyebrow": "Equipment inquiry",
+    "title": "Request Equipment Quote",
+    "intro": "The more detail you share, the more accurate our sourcing and quotation.",
+    "button": "Request Equipment Quote",
+    "next_steps": [
+      "We review your specification and destination.",
+      "We confirm availability and the documentation that can be provided.",
+      "You receive a written quotation from YFP Assurance."
+    ]
+  }
+}

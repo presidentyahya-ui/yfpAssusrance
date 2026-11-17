@@ -1,0 +1,78 @@
+{
+  "seo": {
+    "title": "Skills Assurance: Digital CV, Skills Assessment & Training | YFP Assurance",
+    "description": "Video-based Digital CVs, employer practical skills assessments and practical training with documented completion records, for hospitality, construction, events and technical services."
+  },
+  "hero": {
+    "eyebrow": "Pillar 02 · Skills Assurance",
+    "title": "Don’t Just Claim Competence. Demonstrate It.",
+    "lead": "Video-based portfolios, practical assessments and documented learning, so professionals can show what they can do and employers can see it for themselves.",
+    "image": "/images/skills-hero.svg"
+  },
+  "digital_cv": {
+    "label": "A · For professionals",
+    "title": "Digital CV",
+    "tagline": "Show What You’re Really Worth.",
+    "text": "A professional digital portfolio featuring your work history, completed projects and video evidence of your practical skills, so people can see what you can do instead of only reading about it.",
+    "points": [
+      "Work history and completed projects",
+      "Video evidence of practical skills",
+      "A clear, professional presentation you control"
+    ],
+    "notice": "The Digital CV is an optional, standalone portfolio product. It is not a fee for recruitment, job applications, placement or access to employers.",
+    "button": "Create Your Digital CV",
+    "image": "/images/skills-cv.svg"
+  },
+  "assessment": {
+    "label": "B · For employers",
+    "title": "Employer Skills Assessment",
+    "tagline": "See What Candidates Can Actually Do.",
+    "text": "Request practical, video-based assessments and receive structured skills reports based on clearly defined job criteria. Candidates are never charged for employer assessments.",
+    "points": [
+      "You define the role and the criteria that matter",
+      "Candidates complete recorded practical tasks",
+      "You receive a structured report against your criteria"
+    ],
+    "button": "Assess a Candidate",
+    "image": "/images/skills-assess.svg"
+  },
+  "training": {
+    "label": "C · For teams and individuals",
+    "title": "Training & Practical Learning",
+    "tagline": "Learn It. Demonstrate It. Prove It.",
+    "text": "Practical learning libraries, video training, structured assessments and documented completion records, so learning ends in something you can show.",
+    "points": [
+      "Practical learning libraries and video training",
+      "Structured assessments",
+      "Documented completion records"
+    ],
+    "button": "Explore Training",
+    "image": "/images/skills-training.svg"
+  },
+  "industries": {
+    "eyebrow": "Industries served",
+    "title": "Built for practical, hands-on work.",
+    "items": [
+      "Hospitality",
+      "Construction and interiors",
+      "Events and entertainment",
+      "Technical services"
+    ]
+  },
+  "disclaimer": {
+    "title": "Important.",
+    "text": "Skills Assurance documents and reports what an individual demonstrates against stated criteria. It is not an official certification or a licence, it does not guarantee competence, and it does not include employment placement. YFP Assurance does not operate a job board or recruitment service."
+  },
+  "form": {
+    "eyebrow": "Skills Assurance inquiry",
+    "title": "Tell us what you need",
+    "intro": "Register interest in a Digital CV, request candidate assessments or ask about training.",
+    "button": "Send inquiry"
+  },
+  "sidebar": {
+    "employers_title": "For employers",
+    "employers_text": "Share the role and how many candidates you want assessed. We will confirm the criteria and the assessment format before you commit.",
+    "professionals_title": "For professionals",
+    "professionals_text": "Register your interest in a Digital CV. We will let you know when orders open."
+  }
+}

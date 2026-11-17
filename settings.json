@@ -1,0 +1,42 @@
+{
+  "site_url": "https://yfp-assurance.com",
+  "contact": {
+    "email": "",
+    "phone": "",
+    "whatsapp": "",
+    "whatsapp_greeting": "Hello YFP Assurance, I would like to make an inquiry.",
+    "location": "Dubai, United Arab Emirates",
+    "hours": ""
+  },
+  "forms": {
+    "provider": "none",
+    "endpoint": "",
+    "access_key": "",
+    "subject_prefix": "YFP website inquiry",
+    "redirect_on_success": ""
+  },
+  "pricing": {
+    "digital_cv": {
+      "amount": 25,
+      "currency": "AED",
+      "show": true,
+      "orders_open": false,
+      "order_url": ""
+    },
+    "employer_assessment": {
+      "amount": 75,
+      "currency": "AED",
+      "show": true,
+      "unit": "per candidate assessment, paid by the employer"
+    }
+  },
+  "skills_mirror": {
+    "website_url": "",
+    "report_portal_url": ""
+  },
+  "analytics": {
+    "plausible_domain": "",
+    "ga_measurement_id": "",
+    "cloudflare_token": ""
+  }
+}

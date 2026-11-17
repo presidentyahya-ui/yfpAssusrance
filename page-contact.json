@@ -1,0 +1,20 @@
+{
+  "seo": {
+    "title": "Contact YFP Assurance | Request a Quote, Dubai UAE",
+    "description": "Contact YFP Assurance in Dubai for equipment sourcing, factory-direct quotations, skills assessments, training and project monitoring inquiries."
+  },
+  "hero": {
+    "eyebrow": "Contact",
+    "title": "Let’s discuss your requirements.",
+    "lead": "Whether you are sourcing equipment, commissioning a custom product, assessing candidates or monitoring a project, start here."
+  },
+  "inquiry_types": [
+    "General inquiry",
+    "Equipment sourcing",
+    "Factory-direct quotation",
+    "Skills assessment",
+    "Training inquiry",
+    "Project monitoring"
+  ],
+  "no_direct_contact_text": "Direct email, telephone and WhatsApp details will be published here shortly."
+}
